@@ -1,0 +1,75 @@
+body{
+    background-image: url(./images/triangular-abstract-with-security-symbol-circuit-board-modern-future-website-background-or-cover-page-for-technology-and-finance-concept-and-education-future-company-vector.jpg);
+}
+
+
+
+h1{
+    text-align: center;
+    color: black;
+    background-color: aqua;
+    font-size: 3rem;
+}
+.players{
+    width: 400px;
+    height: 400px;
+    border: 5px solid yellow;
+    text-align: center;
+    overflow: auto;
+    display: inline-block;
+    margin: 10px;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+.playerspic{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+p{
+    text-align: justify;
+}
+#viratDiv{
+    background-image: url(./images/india.png) ;
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    
+}
+#abdDiv{
+    background-image: url(./images/Southafrica_cricket_logo.svg.png),url(./images/rcb.jpeg);
+    background-size: 100px,100px;
+    background-repeat: no-repeat,no-repeat;
+    background-position:  top right,left center;
+    background-origin: border-box;
+   
+
+   
+}
+#bazDiv{
+    background-image: url(./images/newzealand\ logo.jpg);
+    background-size: 50px;
+    background-attachment: fixed;
+    
+
+}
+#cookDiv{
+    background-image: url(./images/england\ logo.png);
+  
+    background-size: 50px;
+    background-repeat:repeat-y;
+    background-attachment: scroll;
+   
+    
+}
+#patDiv{
+    background-image: url(./images/Cricket_Australia.png);
+  
+    background-size: 50px;
+    background-repeat:repeat-x;
+    background-attachment: scroll;
+    background-position: 200px 10px;
+    
+   
+}
